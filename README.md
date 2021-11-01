@@ -1,9 +1,9 @@
 # Manipulando-dict
 """Arquivo, onde faço o tratamento de uma lista de dicionários filtrando alguns pré-requisitos:
 Fazer um exercício que leia o dicionário e efetue as seguintes alteracoes:
-1 - FEITOOOOOOOO Troque o nome completo do Estado pela sua respectiva sigla
+1 - Troque o nome completo do Estado pela sua respectiva sigla
 2 - Sempre que houver um dado desconhecido trocar pela variável nula
-3 - FEITOOOOOOOO o email: acaso esteja como desconhecido trocar pelo modelo "nome.sobrenome@gmail.com", garantir que TODOS
+3 - O email: acaso esteja como desconhecido trocar pelo modelo "nome.sobrenome@gmail.com", garantir que TODOS
 OS EMAIL estejam em letra minúscula (low case)
 4 - Trocar o nome do curso "A melhor linguagem do mundo" para "Python"
 5 - Transformar o valor de cursos para o seguinte dicionário:
